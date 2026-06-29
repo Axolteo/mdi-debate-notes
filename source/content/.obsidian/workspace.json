@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "category-folder/Some note.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Some note"
+              "title": "index"
+            }
+          },
+          {
+            "id": "841008f19ee0177c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/6-29-26/Seminar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Seminar"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "category-folder/Some note.md",
+                "file": "Notes/6-29-26/Seminar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Some note"
+              "title": "Backlinks for Seminar"
             }
           },
           {
@@ -128,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "category-folder/Some note.md",
+                "file": "Notes/6-29-26/Seminar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Some note"
+              "title": "Outgoing links from Seminar"
             }
           },
           {
@@ -157,16 +171,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "category-folder/Some note.md",
+                "file": "Notes/6-29-26/Seminar.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Some note"
+              "title": "Outline of Seminar"
+            }
+          },
+          {
+            "id": "ee6dd20b19c34cce",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -180,14 +205,23 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d8837e6263008e3",
+  "active": "841008f19ee0177c",
   "lastOpenFiles": [
-    "category-folder/index.md",
-    "category-folder/Some note.md",
+    "Notes/6-29-26/Rotations.md",
+    "Notes/6-29-26/Research Intensive.md",
+    "Notes/6-29-26/Practicum.md",
+    "Notes/6-29-26/Lab.md",
+    "Notes/6-29-26/Intro.md",
+    "Notes/index.md",
+    "Notes/Some note.md",
     "index.md",
-    "category-folder"
+    "Notes/6-29-26/index.md",
+    "Notes/6-29-26/Seminar.md",
+    "Notes/6-29-26",
+    "Notes"
   ]
 }
