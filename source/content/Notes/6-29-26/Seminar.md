@@ -15,4 +15,5 @@ B fake, D fake, F fake
 * Booleans 
 * Google Scholar
 * Google News
-* 
+* Gemini?
+	* Quiz you about articles
