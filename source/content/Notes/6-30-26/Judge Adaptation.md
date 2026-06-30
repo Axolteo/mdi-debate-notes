@@ -58,6 +58,9 @@ Also memorize relevant examples. You need to know at least something about real-
 
 Aphorisms are short statements that are basically mic drops. You should have them locked and loaded; there isn't really a good way to prepare these, just have a lot of practice debates. Have at least some *memorable* lines for the judge prepared.
 
+"The AFF is playing with matches in a room full of dynamite"
+"The oppressed don't owe you a blueprint"
+
 Practicing extemporaneous speech helps you speak *to* the judge instead of just reading off a doc; it really appeals to judges as well.
 ### Anecdote Practice
 *For a card about how recognizing the intrinsic value of nature spills over to prop up vital environmental movements:*
