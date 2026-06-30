@@ -57,3 +57,13 @@ Anecdotes are SUPER persuasive. Brainstorm an anecdote for each card in your cas
 Also memorize relevant examples. You need to know at least something about real-world examples relating to the topic, so that even if you don't have a card on it, you can at least explain mechanisms/provide more evidence for your side. The same applies for counter-examples.
 
 Aphorisms are short statements that are basically mic drops. You should have them locked and loaded; there isn't really a good way to prepare these, just have a lot of practice debates. Have at least some *memorable* lines for the judge prepared.
+
+Practicing extemporaneous speech helps you speak *to* the judge instead of just reading off a doc; it really appeals to judges as well.
+### Anecdote Practice
+*For a card about how recognizing the intrinsic value of nature spills over to prop up vital environmental movements:*
+
+In 1973, in response to logging in the Himalayas, protesters who recognized the value of trees to local ecosystems in mitigating monsoon impacts and agricultural yields began hugging trees to spread awareness of this value. This snowballed across India, eventually creating the "Save the Himalayas" movement and setting the foundation for future environmental progress in India.
+
+*For a card about how litigation-centric approaches to the environmental crisis like the RoN are uniquely effective:*
+
+In 2024, Peru granted Maranon River legal personhood and rights, giving it the right to flow, maintain natural cycles, be restored, and be protected from contamination. The court ordered the state-owned oil company, Petroperú, to update its environmental management instruments to mitigate the impacts of pipeline operations.
