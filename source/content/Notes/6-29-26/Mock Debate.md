@@ -1,4 +1,3 @@
-# Mock Debate
 You're always going to be biased toward your side when you're debating; judges have a scout role, while debaters have a soldier role.
 
 The soldier's in the trenches; the scout is determining who is winning. Thinking like a judge lets you think with both perspectives.
