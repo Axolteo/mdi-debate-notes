@@ -1,5 +1,4 @@
-# Research Skills
-## What is Research?
+# What is Research?
 The systematic investigation into a subject to establish facts, solve problems, or generate new knowledge.
 
 2 4 8
@@ -11,7 +10,7 @@ The systematic investigation into a subject to establish facts, solve problems, 
 Go from the lens of *"what if this is wrong?"*
 
 B fake, D fake, F fake
-## Techniques
+# Techniques
 * Booleans 
 * Google Scholar
 * Google News
