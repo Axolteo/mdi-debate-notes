@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🗣️ MDI Debate Camp Wiki",
+    pageTitle: "🗣️ MDI Debate Camp Notes",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
