@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/6-29-26/Intro.md",
+                "file": "Notes/6-30-26/Judge Adaptation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intro"
+              "title": "Judge Adaptation"
             }
           }
         ],
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/6-29-26/Intro.md",
+                "file": "Notes/6-30-26/Judge Adaptation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Intro"
+              "title": "Backlinks for Judge Adaptation"
             }
           },
           {
@@ -170,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/6-29-26/Intro.md",
+                "file": "Notes/6-30-26/Judge Adaptation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Intro"
+              "title": "Outgoing links from Judge Adaptation"
             }
           },
           {
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/6-29-26/Intro.md",
+                "file": "Notes/6-30-26/Judge Adaptation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Intro"
+              "title": "Outline of Judge Adaptation"
             }
           },
           {
@@ -239,18 +239,18 @@
   },
   "active": "e8b4cd4228a6d00f",
   "lastOpenFiles": [
-    "Notes/6-29-26/Overview.md",
-    "Notes/6-29-26/Mock Debate.md",
     "Notes/6-29-26/Intro.md",
+    "Notes/6-29-26/Mock Debate.md",
+    "Notes/6-29-26/Overview.md",
+    "Notes/6-29-26/Research Skills.md",
+    "Notes/6-30-26/Overview.md",
+    "Notes/6-29-26/Topic Analysis.md",
     "Notes/6-30-26/Judge Adaptation.md",
     "Notes/6-30-26/Lab.md",
     "Notes/6-30-26/Rotations.md",
     "Notes/6-30-26/Practicum.md",
     "Notes/6-30-26/Research Intensive.md",
-    "Notes/6-30-26/Overview.md",
-    "Notes/6-29-26/Research Skills.md",
     "Notes/6-29-26/Rotations.md",
-    "Notes/6-29-26/Topic Analysis.md",
     "Notes/6-29-26/Research Intensive.md",
     "Notes/6-29-26/Practicum.md",
     "Notes/6-29-26/Lab.md",
