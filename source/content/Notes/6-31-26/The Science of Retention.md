@@ -92,3 +92,11 @@ This pattern is consistent, too: rail planners overestimated ridership by 106% o
 We cannot imagine the full distribution of outcomes. Suppose you're trying to figure out how long a project will take -- you can easily estimate how quickly you'd finish if everything goes according to plan. However, it's NOT likely that everything actually goes to plan. The probability that **anything** will go wrong is extremely high.
 
 To solve this, you need an outside view. Look to past experiences: how long does it take you to complete an assignment? How often do things usually go wrong? At this point, we're talking about *statistics*.
+
+This applies in-round too.
+
+> Suppose your opponent argues that the US vesting ecosystems with legal rights will hurt the economy by creating legal liability for a wide range of economic activity in the status quo?
+
+*What sort of things might prevent that from being true?*
+
+For one, ecosystems might not be sued. Industries could also respect the ecosystems, or new industries pop up along with ecosystems. Nuke war could happen, so it wouldn't matter. The law could get repealed instantly too.
