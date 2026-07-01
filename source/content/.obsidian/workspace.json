@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/6-29-26/Overview.md",
+                "file": "Notes/6-29-26/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Overview"
+              "title": "index"
             }
           },
           {
@@ -69,16 +69,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/6-29-26/Mock Debate.md",
+                "file": "Notes/6-30-26/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mock Debate"
+              "title": "index"
+            }
+          },
+          {
+            "id": "055126fd5b520ce6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/6-31-26/The Science of Retention.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Science of Retention"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -135,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 301.5
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -151,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/6-29-26/Mock Debate.md",
+                "file": "Notes/6-31-26/The Science of Retention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Mock Debate"
+              "title": "Backlinks for The Science of Retention"
             }
           },
           {
@@ -170,12 +184,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/6-29-26/Mock Debate.md",
+                "file": "Notes/6-31-26/The Science of Retention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Mock Debate"
+              "title": "Outgoing links from The Science of Retention"
             }
           },
           {
@@ -199,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/6-29-26/Mock Debate.md",
+                "file": "Notes/6-31-26/The Science of Retention.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Mock Debate"
+              "title": "Outline of The Science of Retention"
             }
           },
           {
@@ -237,16 +251,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e8b4cd4228a6d00f",
+  "active": "055126fd5b520ce6",
   "lastOpenFiles": [
-    "Notes/6-29-26/Intro.md",
+    "Pasted image 20260701091417.png",
     "Notes/6-30-26/Judge Adaptation.md",
-    "Notes/6-29-26/Mock Debate.md",
-    "Notes/6-29-26/Overview.md",
+    "Notes/6-31-26/The Science of Retention.md",
+    "Notes/6-29-26/index.md",
+    "Notes/6-31-26/Judge Adaptation.md",
+    "Notes/6-30-26/index.md",
+    "Notes/6-31-26/Overview.md",
+    "Notes/6-30-26/Debate Formatting.md",
+    "Notes/6-31-26",
     "Notes/6-29-26/Research Skills.md",
-    "Notes/6-30-26/Overview.md",
+    "Notes/6-29-26/Mock Debate.md",
+    "Notes/6-29-26/Intro.md",
     "Notes/6-29-26/Topic Analysis.md",
-    "Notes/6-30-26/Lab.md",
     "Notes/6-30-26/Rotations.md",
     "Notes/6-30-26/Practicum.md",
     "Notes/6-30-26/Research Intensive.md",
