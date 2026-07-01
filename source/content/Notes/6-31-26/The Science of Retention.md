@@ -2,6 +2,7 @@
 Not paying attention in lecture lowk
 
 **Example:**
+
 ![[Pasted image 20260701091417.png]]
 # The Learning Process
 ## Encoding
@@ -68,6 +69,26 @@ Interleaved practice mixes two or more skills within a single practice session. 
 However, learning from interleaved practice feels far slower, causing students to opt for non-interleaved practice *even* when they can see the results of interleaving.
 ### Hard Learning is Good Learning
 > The easier a skill is for you to retrieve, the less your retrieval practice will benefit your retention of it.
-> - Brown, Roediger III, and McDaniel
+> *Brown, Roediger III, and McDaniel*
 
 Difficulty trades off against the illusion of mastery, since difficult learning feels less productive even though it works better. Literally think of your brain as a muscle; if you're not struggling to build connections, you're not learning. 
+# Thinking
+## System 1 vs System 2
+System 1 thinking is fast, automatic, and effortful to learn but easy once mastered. New information requires a lot of effort to use.
+
+System 2 thinking is slow, deliberate, and requires conscious effort. As you practice remembering and using information, it becomes less effortful. 
+
+Learning moves information from the effortful System 2 processing into fast, automatic System 1 recall.
+## The Curse of Knowledge
+Knowing more is both a blessing and a curse. It may cause you to assume your audience knows more than they actually do. Because of this, you must guard against it; when explaining a case or an argument, check in with your audience. What sounds obvious to you after weeks of research may be brand new to a judge or teammate. 
+## Thinking Statistically
+Humans SUCK at predicting the future; even trained professionals with strong incentives to get it right.
+
+> Homeowners remodeling their kitchens expected costs of $18,658 on average. Actual final costs were more than double that.
+
+This pattern is consistent, too: rail planners overestimated ridership by 106% on average, and students who were 99% sure they'd finish an assignment on time were right less than half the time. 
+
+**Why are we so terrible at predictions?**
+We cannot imagine the full distribution of outcomes. Suppose you're trying to figure out how long a project will take -- you can easily estimate how quickly you'd finish if everything goes according to plan. However, it's NOT likely that everything actually goes to plan. The probability that **anything** will go wrong is extremely high.
+
+To solve this, you need an outside view. Look to past experiences: how long does it take you to complete an assignment? How often do things usually go wrong? At this point, we're talking about *statistics*.
